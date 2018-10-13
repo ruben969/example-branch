@@ -1,0 +1,1 @@
+﻿let miBany = "inchvor ban";
